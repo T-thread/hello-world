@@ -8,7 +8,7 @@
 - [ ] Static analysis results contain no high severity warnings (View analysis in Team City)
 
 ## Code review guidance:
-<!-->
+<!--
 - Review logic
 - Review thread safety (if applicable)
 - Review function return method
