@@ -8,7 +8,6 @@
 - [ ] Static analysis results contain no high severity warnings (View analysis in Team City)
 
 ## Code review guidance:
-<!--
 - Review logic
 - Review thread safety (if applicable)
 - Review function return method
@@ -23,7 +22,7 @@
 - Check header files have externs on function prototypes
 - Check timer initialization
 - Verify correct sws version update if included in the review list
--->
+
 
 ## Next Steps
 #### Merge the branch into master
@@ -36,4 +35,4 @@ Squash and merge are acceptable, but make sure all contributors are properly ide
 ####	ECR ####: <ECR title/description>
 #### Delete the branch 
 
-<!-- You can erase any parts of this template not applicable to your checklist. -->
+<!-- You can remove any parts of this template not applicable to your checklist. -->
