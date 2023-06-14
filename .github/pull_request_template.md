@@ -3,7 +3,7 @@
 - [ ] The IAR project compiles with no significant warnings
 - [ ] The Simulator compiles with no significant warnings 
 - [ ] Verify with developer (chat/email) that unit testing has been completed
-- [ ] Check if code liceneses are still valid
+- [ ] Check if code licenses are still valid
 - [ ] Check if API keys are still valid for greater than one year
 - [ ] Static analysis results contain no high severity warnings (View analysis in Team City)
 
