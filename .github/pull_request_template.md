@@ -22,7 +22,7 @@
 - Check if new code has any new warnings
 - Check header files have externs on function prototypes
 - Check timer initialization
-- Verify correct sws version update if included in the review list ***
+- Verify correct sws version update if included in the review list
 -->
 
 ## Next Steps
