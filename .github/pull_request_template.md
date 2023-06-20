@@ -1,11 +1,13 @@
 # Please follow the general pull request review steps:
 
-- [ ] The IAR project compiles with no significant warnings
-- [ ] The Simulator compiles with no significant warnings 
 - [ ] Verify with developer (chat/email) that unit testing has been completed
-- [ ] Check if code licenses are still valid
-- [ ] Check if API keys are still valid for greater than one year
 - [ ] Static analysis results contain no high severity warnings (View analysis in Team City)
+<!-- IAR and Sim warnings as well as errors are checked by the build server 
+	 Static analysis results to be moved into the checklist???
+	 Code licenses to be moved into the checklist???
+	 API key check should be moved into the checklist???
+
+-->
 
 ## Code review guidance:
 - Review logic
@@ -22,6 +24,7 @@
 - Check header files have externs on function prototypes
 - Check timer initialization
 - Verify correct sws version update if included in the review list
+<!-- Remove parts that will be performed by a code beautifier when available -->
 
 
 ## Next Steps
